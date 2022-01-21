@@ -7,7 +7,7 @@ import os
 
 def download_image(image_url, end_date, copy_right):
     path = os.getcwd()
-    save_path = path + "/images/" + end_date + " " + copy_right[:copy_right.index('(')] + ".jpg"
+    save_path = path + "/images/" + copy_right[:copy_right.index('(')] + ".jpg"
     print('downloading: ' + copy_right)
     if os.path.exists(save_path):
         print(save_path + " has already existed!")
@@ -19,7 +19,6 @@ def download_image(image_url, end_date, copy_right):
     else:
         print("download %s failed" % image_url)
     file.close()
-
 
 if __name__ == '__main__':
     BING_API = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160"
