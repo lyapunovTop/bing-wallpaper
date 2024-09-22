@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-23 | [Buttermere, Lake District National Park, England (© Alan Novelli/Alamy)](https://cn.bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg) 
+
 2024-09-22 | [Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg) 
 
 2024-09-20 | [Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg) 
