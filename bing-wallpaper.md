@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-13 | [Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)](https://cn.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg) 
+
 2024-10-12 | [Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg) 
 
 2024-10-10 | [Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg) 
